@@ -1,0 +1,4 @@
+enabled: true
+addFigure: true
+defaultLayout: responsive
+moveClassToFigure: true
