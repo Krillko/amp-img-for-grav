@@ -2,6 +2,9 @@
 
 The **Ampimage** Plugin is for [Grav CMS](http://github.com/getgrav/grav) used together with [Google Accelerated Mobile Pages](https://www.ampproject.org)
 
+## Getting started with AMP
+Grav doesn't support AMP out of the box but it's pretty easy to get started. I've created a minimal theme to get you started: [Amp skeleton theme](https://github.com/Krillko/amp-skeleton)
+
 ## Usage
 The plugin replaces html `<img>` with AMP-images.
 Just add images as usual in grav, and they will be replaced.
